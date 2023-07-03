@@ -1,4 +1,3 @@
-# Laptop-Price-Prediction
 A machine Learning project as a final assessment for the SmartInternz Externship program .
 
 (video_link - "https://youtu.be/oDXZTY-Xc2g")
@@ -54,3 +53,10 @@ A machine Learning project as a final assessment for the SmartInternz Externship
 Contributions and issues requests are welcome!
 
 Give a :star: if you like this project!
+
+# Snapshot of web application
+![l1](https://github.com/code12repeat/Laptop-Price-Prediction/assets/109906931/61ccae9e-51c3-46ab-9f2a-5c436213748e)
+![l2](https://github.com/code12repeat/Laptop-Price-Prediction/assets/109906931/6c25761d-92e9-4c28-9bb0-87095f3840a8)
+
+
+
